@@ -1,0 +1,23 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1020f1ec15e1c0000159344611900000019350001
+clientId2=1020f1ec15e1c0000159344128900000006410003
+clientId3=1020f1ec15e1c0000159344612000000019350002
+count=3
+program1=/usr/bin/latte-dock
+program2=firefox
+program3=pulseaudio
+restartCommand1=/usr/bin/latte-dock,-session,1020f1ec15e1c0000159344611900000019350001_1593446184_432465
+restartCommand2=/usr/lib/firefox/firefox,--sm-client-id,1020f1ec15e1c0000159344128900000006410003
+restartCommand3=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=steve
+userId2=steve
+userId3=steve

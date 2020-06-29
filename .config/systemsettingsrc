@@ -1,0 +1,12 @@
+[MainWindow]
+Height 1080=700
+Height 1440=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1024
+Width 2560=1024
+
+[Open-with settings]
+CompletionMode=1
+History=latt,plank
